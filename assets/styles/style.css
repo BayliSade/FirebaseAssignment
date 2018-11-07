@@ -2,6 +2,11 @@
     text-align: center;
 }
 
+.jtstyles {
+    background-color: pink; 
+    color: white;
+}
+
 th {
     color: white;
 }
